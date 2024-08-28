@@ -1,4 +1,5 @@
-programa//TABUADA DE MULTIPLICACAO DE
+programa
+//TABUADA DE ADIÇÃO DE 4
 {
 	
 	funcao inicio()
@@ -6,16 +7,16 @@ programa//TABUADA DE MULTIPLICACAO DE
 		inteiro contador
 		inteiro resultado
 
-		escreva("Tabuada do 4, Adição \n")
+		escreva("Tabuada do 4, Multiplicação \n")
 
 		contador = 1
 
 		enquanto (contador <=10) 
 		{ 
 		
-			resultado  = 4 * contador
+			resultado  = 4 + contador
 			
-			escreva ("4 x ", contador, " = ", resultado, "\n")
+			escreva ("4 + ", contador, " = ", resultado, "\n")
 
                contador = contador + 1
 			
