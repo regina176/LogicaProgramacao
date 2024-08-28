@@ -1,13 +1,14 @@
 programa
 {
 	
-	funcao inicio()//TABUADA DE ADIÇAO
+	funcao inicio()
+//TABUADA DE ADIÇAO
 	{
 	   inteiro soma
 	   inteiro resultado
 
  	//CABEÇALHO DA TABUADA
- 	escreva("Tabuada de Adiâo do 4: \n\n")
+ 	escreva("Tabuada de Adição do 4: \n\n")
 
  	//LOOP PARA CALCULAR E EXIBIR A TABUADA DE ADIÇÃO DO 4
 
